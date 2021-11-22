@@ -12,3 +12,5 @@ https://jamesbmahoney.github.io/run-buddy
 
 ## Contribution
 Made with ❤ by James Mahoney
+
+# Run Buddy Inc.
